@@ -2,7 +2,7 @@
 <h3 align="center">A IT Undergrad student at NIT Raipur || 2* @codechef ||CodeUtsav 7.0(Hackaton) problem statement Winner</h3>
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on <a href="https://github.com/ayushbhavsar21/Fashion-E-commerce-">**Fashion**</a>
+- 🔭 I’m currently working on <a href="https://github.com/ayushbhavsar21/Portfolio">**Portfolio**</a>
 
 - 👯 I was the front-end developer and AI developer in my CodeUtsav team **Visionaries-United** We were Problem Statement Winner in this Hackaton <a href="https://devfolio.co/projects/jadoo-0e14">Project Link👆🏼</a>
  
